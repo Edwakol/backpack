@@ -2,6 +2,8 @@
 #include <string.h>
 #include <stdlib.h>
 
+printf("The maximum value is 660\n");
+
 typedef struct Artifact_struct {
     char name[20];
     int weight;
